@@ -4,7 +4,7 @@ Kelas 11 RPL 5
 
 # Hasil Laporan Praktikum OOP
 
-_1. Tugas Analisis 1 :_   
+**1. Tugas Analisis 1 :**   
 Mengubah hero1.hp menjadi 500
 
 code dan output :  
