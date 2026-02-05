@@ -7,25 +7,10 @@ Kelas 11 RPL 5
 **1. Tugas Analisis 1 : **
 Mengubah hero1.hp menjadi 500
 
-code :  
-class Hero:
- # Constructor: Dijalankan saat Hero baru dibuat
- def __init__(self, name, hp, attack_power):
-  self.name = name # Nama Hero
-  self.hp = hp # Nyawa (Health Point)
-  self.attack_power = attack_power # Kekuatan Serangan
- # Method untuk menampilkan info hero
- def info(self):
-  print(f"Hero: {self.name} | HP: {self.hp} | Power: {self.attack_power}")
-# -- Main Program --
-# Membuat Object (Instansiasi)
-hero1 = Hero("Layla", 500, 15)
-hero2 = Hero("Zilong", 120, 20)
-# Memanggil Method
-hero1.info()
-hero2.info()
+code dan output :  
 
-print(hero1.hp)
+![Uploading Screenshot 2026-02-05 141817.png…]()
+
 
 **1. Tugas Analisis 2 : **
 
