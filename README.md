@@ -9,7 +9,7 @@ Mengubah hero1.hp menjadi 500
 
 code dan output :  
 
-![Uploading Screenshot 2026-02-05 141817.png…]()
+<img width="1835" height="429" alt="Screenshot 2026-02-05 141817" src="https://github.com/user-attachments/assets/d4d8b221-ed63-48a2-af37-ae64eb2c979c" />
 
 
 **1. Tugas Analisis 2 : **
